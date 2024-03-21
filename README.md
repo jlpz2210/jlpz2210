@@ -27,7 +27,7 @@ I've mainly worked as a Front End Web Developer but also interested in the Back 
   </a>
     <a href="http://www.instagram.com/jlpz_0" target="_blank" rel="noreferrer">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </picture>
@@ -41,7 +41,7 @@ I've mainly worked as a Front End Web Developer but also interested in the Back 
   </a>
     <a href="https://www.stackoverflow.com/users/15623452/juan-lopez" target="_blank" rel="noreferrer">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
   </picture>
